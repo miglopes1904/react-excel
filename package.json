@@ -58,6 +58,6 @@
     "react excel api"
   ],
   "dependencies": {
-    "xlsx": "^0.19.3"
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.19.3/xlsx-0.19.3.tgz"
   }
 }
