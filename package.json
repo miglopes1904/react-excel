@@ -58,6 +58,6 @@
     "react excel api"
   ],
   "dependencies": {
-    "xlsx": "^0.18.5"
+    "xlsx": "^0.19.3"
   }
 }
